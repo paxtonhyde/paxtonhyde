@@ -1,7 +1,7 @@
 @paxtonhyde
 I’m interested in making people's lives easier with clean and effective data management tools.
-- 🌱 I’m currently learning react.js, python, APIs, and cloud tools.
-- 💞️ I’m looking to collaborate on simple webpages and database UIs.
+- 🌱 I’m currently working on python, SQL, streaming data, and cloud tools.
+- 💞️ I’m looking for a first job in data engineering
 - 📫 How to reach me: paxify@gmail.com
 
 <!---
