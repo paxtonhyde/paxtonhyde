@@ -1,5 +1,5 @@
 @paxtonhyde
-I’m interested in making people's lives easier with clean and effective data management tools.
+I’m interested in making people's lives easier with simple but robust data management tools.
 - 🌱 I’m currently working on python, SQL, streaming data, and cloud tools.
 - 💞️ I’m looking for a first job in data engineering
 - 📫 How to reach me: paxify@gmail.com
